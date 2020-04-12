@@ -5,7 +5,7 @@
 
 ### Learnings from the project
 
- Fundamentals of PYthon.
+ Fundamentals of Python.
 
 
 ### Challenges faced
